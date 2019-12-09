@@ -1,0 +1,8 @@
+C:\Users\larys\Desktop\HL7\HL7Factory\bin\Debug\HL7Factory.dll
+C:\Users\larys\Desktop\HL7\HL7Factory\bin\Debug\HL7Factory.pdb
+C:\Users\larys\Desktop\HL7\HL7Factory\bin\Debug\HL7Lib.dll
+C:\Users\larys\Desktop\HL7\HL7Factory\bin\Debug\HL7Lib.pdb
+C:\Users\larys\Desktop\HL7\HL7Factory\obj\Debug\HL7Factory.csprojAssemblyReference.cache
+C:\Users\larys\Desktop\HL7\HL7Factory\obj\Debug\HL7Factory.csproj.CopyComplete
+C:\Users\larys\Desktop\HL7\HL7Factory\obj\Debug\HL7Factory.dll
+C:\Users\larys\Desktop\HL7\HL7Factory\obj\Debug\HL7Factory.pdb

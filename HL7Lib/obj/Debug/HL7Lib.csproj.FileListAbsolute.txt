@@ -1,0 +1,11 @@
+C:\Users\usst\Desktop\HL7\HL7Lib\bin\Debug\HL7Lib.dll
+C:\Users\usst\Desktop\HL7\HL7Lib\bin\Debug\HL7Lib.pdb
+C:\Users\usst\Desktop\HL7\HL7Lib\obj\Debug\HL7Lib.csprojAssemblyReference.cache
+C:\Users\usst\Desktop\HL7\HL7Lib\obj\Debug\HL7Lib.csproj.CoreCompileInputs.cache
+C:\Users\usst\Desktop\HL7\HL7Lib\obj\Debug\HL7Lib.dll
+C:\Users\usst\Desktop\HL7\HL7Lib\obj\Debug\HL7Lib.pdb
+C:\Users\larys\Desktop\HL7\HL7Lib\bin\Debug\HL7Lib.dll
+C:\Users\larys\Desktop\HL7\HL7Lib\bin\Debug\HL7Lib.pdb
+C:\Users\larys\Desktop\HL7\HL7Lib\obj\Debug\HL7Lib.csprojAssemblyReference.cache
+C:\Users\larys\Desktop\HL7\HL7Lib\obj\Debug\HL7Lib.dll
+C:\Users\larys\Desktop\HL7\HL7Lib\obj\Debug\HL7Lib.pdb

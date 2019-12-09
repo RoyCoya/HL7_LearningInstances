@@ -1,0 +1,9 @@
+C:\Users\usst\source\repos\HL7\HL7\bin\Debug\HL7.exe.config
+C:\Users\usst\source\repos\HL7\HL7\bin\Debug\HL7.exe
+C:\Users\usst\source\repos\HL7\HL7\bin\Debug\HL7.pdb
+C:\Users\usst\source\repos\HL7\HL7\obj\Debug\HL7.csprojAssemblyReference.cache
+C:\Users\usst\source\repos\HL7\HL7\obj\Debug\HL7.Properties.Resources.resources
+C:\Users\usst\source\repos\HL7\HL7\obj\Debug\HL7.csproj.GenerateResource.cache
+C:\Users\usst\source\repos\HL7\HL7\obj\Debug\HL7.csproj.CoreCompileInputs.cache
+C:\Users\usst\source\repos\HL7\HL7\obj\Debug\HL7.exe
+C:\Users\usst\source\repos\HL7\HL7\obj\Debug\HL7.pdb

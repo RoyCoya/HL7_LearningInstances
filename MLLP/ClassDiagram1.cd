@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MLLP.Context">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="MLLP.Context.MSGEventArgs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Context.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="MLLP.Context.EnumState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Context.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="MLLP.Context.EnumEvent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Context.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAACAggAABAAAAAAAAAAAEAAAAAAEBIAAAAAAAgA=</HashCode>
+      <FileName>Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLLP.States">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>States.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLLP.WaitState">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>States.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLLP.DataState">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>States.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MLLP.EndState">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>States.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
