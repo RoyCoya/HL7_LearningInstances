@@ -1,2 +1,3 @@
 # Learning_HL7
- HL7 lessons' experiments file
+University of Shanghai for Science and Technology
+HL7 Lesson Experiments
